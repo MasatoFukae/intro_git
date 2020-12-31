@@ -1,8 +1,12 @@
 Test for public git
 Test to add some modification
-git add
+git add filename
+git add .
 git commit -v
 git rm
 git status
 git log --oneline -n 3
 git diff
+git diff HEAD
+git remote add origin "URL of remote repo"
+git push prigin master
