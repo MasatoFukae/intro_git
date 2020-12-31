@@ -1,5 +1,6 @@
 Test for public git
 Test to add some modification
 git add
-git commit
+git commit -v
 git rm
+git status
