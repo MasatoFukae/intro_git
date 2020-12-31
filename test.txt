@@ -1,2 +1,4 @@
 Test for public git
 Test to add some modification
+git add
+git commit
