@@ -4,3 +4,5 @@ git add
 git commit -v
 git rm
 git status
+git log --oneline -n 3
+git diff
