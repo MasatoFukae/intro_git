@@ -1,5 +1,4 @@
 Test for public git
-Test to add some modification
 git add filename
 git add .
 git commit -v
@@ -10,3 +9,6 @@ git diff
 git diff HEAD
 git remote add origin "URL of remote repo"
 git push prigin master
+git rm "file name"
+git rm -r "dir name"
+git checkout "file name"
